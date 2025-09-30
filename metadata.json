@@ -1,0 +1,11 @@
+{
+    "name": "&5F&dl&5o&dw&5e&dr",
+    "description": "Gutted Bloom",
+    "version": "1.0.0",
+    "author": "Ashley",
+    "entry": "index.js",
+    "requires": [
+        "BloomCore",
+        "ListFix"
+    ]
+}
